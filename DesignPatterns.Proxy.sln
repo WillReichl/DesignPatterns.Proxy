@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectionProxy", "ProtectionProxy\ProtectionProxy.csproj", "{208A65A5-408F-4FA8-9E31-64BC553BBFAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyProxy", "PropertyProxy\PropertyProxy.csproj", "{48538391-973C-4605-8CE9-D4E9ED7F700C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{208A65A5-408F-4FA8-9E31-64BC553BBFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{208A65A5-408F-4FA8-9E31-64BC553BBFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{208A65A5-408F-4FA8-9E31-64BC553BBFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48538391-973C-4605-8CE9-D4E9ED7F700C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48538391-973C-4605-8CE9-D4E9ED7F700C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48538391-973C-4605-8CE9-D4E9ED7F700C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48538391-973C-4605-8CE9-D4E9ED7F700C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
